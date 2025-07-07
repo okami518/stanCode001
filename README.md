@@ -30,7 +30,6 @@ The following are optional problems.
 This assignment practice image processing, nested loops, and pixel manipulation.
 - Problem 1 – `fire.py`
 - Problem 2 – `mirror_lake.py`
-- Problem 3 – `blur.py`
 
 ## Environment
 - Python 3.7
