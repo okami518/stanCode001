@@ -2,7 +2,7 @@
 These assignments are practice projects from stanCode, focusing on Python syntax, nested structures, variable assignment and reassignment, string methods, and some basic image pixel manipulation.
 
 Assignment_2
-  problem 1 - quadratic_solver.py
+  problem 1 - quadratic_solver.py/n
   Problem 2 - hailstone.py
   Problem 3 - weather_master.py
   Problem 4 - prime_checker.py
